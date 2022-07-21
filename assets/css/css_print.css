@@ -1,0 +1,62 @@
+@page {
+    size: landscape;
+}
+body {
+    font-family: 'Times New Roman', sans-serif;
+}
+
+.display-body {
+    font-size: 12px;
+    border: 1px solid black;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.display-body th {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.display-body td {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.display-body tbody {
+    border: 2px solid black;
+}
+
+.display-header {
+    margin-bottom: 1rem;
+}
+
+.display-header td {
+    text-align: center;
+}
+
+.title-header {
+    font-size: 1.3rem;
+    line-height: 1.5;
+}
+
+.alamat {
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+
+.garis {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 1.5em;
+    margin-left: 0em;
+    margin-right: 0em;
+    border: 2px solid black;
+}
+p.judul {
+    word-spacing: 15px;
+}
+
+.tanda-tangan {
+    font-size: 16px;
+    text-align: center;
+}
